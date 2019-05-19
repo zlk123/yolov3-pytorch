@@ -66,7 +66,8 @@ python train.py --input_wh 416 416 -b 64 --subdivisions 4 -d VOC --basenet ./wei
 ```
 
 ### eval
-
+https://pan.baidu.com/s/1U64ffUuP84nCrn4oqsX4tg
+提取码 yjbb
 ```python
 
 python eval.py --weights ./weights/convert_yolov3_voc.pth --dataset VOC --input_wh 416 416
